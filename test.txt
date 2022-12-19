@@ -1,0 +1,49 @@
+Host: DESKTOP-R0F119K
+sysOS: Windows-10-10.0.22621-SP0
+ip: 10.16.80.132
+User: asksn
+Free: 50GB
+programmer: Python 3.11.0 Test Suite (64-bit)                               
+programmer: Python 3.11.0 pip Bootstrap (64-bit)                            
+programmer: Python 3.11.0 Add to Path (64-bit)                              
+programmer: Python 3.11.0 Executables (64-bit)                              
+programmer: Python 3.11.0 Development Libraries (64-bit)                    
+programmer: Office 16 Click-to-Run Extensibility Component                  
+programmer: Office 16 Click-to-Run Localization Component                   
+programmer: Office 16 Click-to-Run Localization Component                   
+programmer: Office 16 Click-to-Run Licensing Component                      
+programmer: Microsoft Visual C++ 2022 X86 Additional Runtime - 14.32.31326  
+programmer: Viken Print                                                     
+programmer: Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219     
+programmer: Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40664      
+programmer: Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219     
+programmer: Intel(R) Chipset Device Software                                
+programmer: Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40664      
+programmer: Chrome Remote Desktop Host                                      
+programmer: Microsoft Visual C++ 2022 X64 Additional Runtime - 14.32.31326  
+programmer: Intel(R) C++ Redistributables on Intel(R) 64                    
+programmer: Microsoft Update Health Tools                                   
+programmer: Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161  
+programmer: Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161  
+programmer: Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030   
+programmer: AppsAnywhere                                                    
+programmer: Easy Interactive Tools Ver.5.05                                 
+programmer:                                                                 
+programmer: Python Launcher                                                 
+programmer: Teams Machine-Wide Installer                                    
+programmer: Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40664   
+programmer: Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.32.31326     
+programmer: HP Support Solutions Framework                                  
+programmer: Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030   
+programmer: HP Support Assistant                                            
+programmer: Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030      
+programmer: Cloudpaging Player                                              
+programmer: Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40664   
+programmer: Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17    
+programmer: Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030      
+programmer: AdobeCC2020Viken                                                
+programmer: Windows PC Health Check                                         
+programmer: Oracle VM VirtualBox 7.0.2                                      
+programmer: Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.32.31326     
+programmer: 
+programmer: '
