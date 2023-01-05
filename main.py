@@ -3,7 +3,8 @@ import socket
 import os
 import shutil
 import subprocess
-#----------------Imported modules 
+#----------------Imported modules
+
 
 hostname = socket.gethostname()# gets hostname from pc
 ip = socket.gethostbyname(hostname)# gets ip from pc 
@@ -14,7 +15,6 @@ sysOS = platform.platform()# gets installed OS
 user = os.getlogin()# gets user 
 free = free//(2**30)# converts to GB
 #-------------------All variables 
-
 
 
 dict = {
@@ -28,12 +28,13 @@ dict = {
 
 
 def write():
- f = open("test.txt", "w")
+ f = open(str(dict["Host"]), "w")
  f.write("Host: "+str(dict["Host"])+"\n")
  f.write("sysOS: "+str(dict["sysOS"])+"\n")
  f.write("ip: "+str(dict["ip"])+"\n")
  f.write("User: "+str(dict["User"])+"\n")
  f.write("Free: "+str(dict["Free"])+"GB\n")
+
  try:
 
      for i in range(len(s)):
